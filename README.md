@@ -14,3 +14,5 @@ Sample website with plenty of files for demos
 ## Depl
 
 ## Contri
+
+#### Coppy Left
