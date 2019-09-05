@@ -1,18 +1,25 @@
 <!DOCTYPE html>
 
-<!-- crx coppyyleft -->
+<!-- crx coppyyleft
+
+terrible terror -->
 
 <head>
-<<<<<<< HEAD
+<<<<<<< HEADings
 	<title>222")(Q$=!$!%=!$</title>
 =======
-	<title>w23121ß051345a1</title>
+<<<<<<< HEAD
+	<title>wCHANGEME23121ß051345a1</title>
+
+=======
+	<title>w23121ß05ERROR1345a1</title>
 >>>>>>> rewo
+>>>>>>> erro
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
-			padding-top: 50px;
-			padding-bottom: 20px;
+			padding-top: 5px;
+			padding-bottom: 2px;
 		}
 	</style>
 	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
@@ -22,17 +29,19 @@
 	<!-- Content Goes Here -->
 		<p>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			zuiopü+
-		</p>
-	</main>
-	<footer class="container">
-		<p>&copy; moomoo</p>
+		qwertz1
 =======
-			qwertz1
+			zEXITuiopü+
+		</p>
+	
+			qwertssssssssssssssssssssssssssssz1
+>>>>>>> erro
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; noomoo</p>
+		<p>&copy; noomoomoo</p>
 >>>>>>> rewo
 	</footer>
 </body>
