@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<!-- crx coppyyleft -->
+
+<head>
+<<<<<<< HEAD
+	<title>222")(Q$=!$!%=!$</title>
+=======
+	<title>w23121ß051345a1</title>
+>>>>>>> rewo
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			zuiopü+
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; moomoo</p>
+=======
+			qwertz1
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; noomoo</p>
+>>>>>>> rewo
+	</footer>
+</body>
+</html>
